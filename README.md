@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @DevIsmail-coder
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning Frontend Frame-work (React)
-- 💞️ I’m looking to collaborate on Frontend Project
-- 📫 How to reach me on whatsapp (09168802015)
+-  Hi there, I'm Ismail 👋
+
+🚀 Frontend Developer | Passionate about UI/UX
+🛠 Tech Stack: React, TypeScript, Tailwind, Redux Toolkit
+📫 Contact: [ismailolawale777@gmail.com](mailto:ismailolawale777@gmail.com)  || 2349168802015
+🌐 Portfolio: [https://portfolio-rose-nu-nyafogoxx6.vercel.app]
+
+
 - ⚡ Fun fact: I love playing football
 
 <!---
